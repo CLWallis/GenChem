@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gen Chem Companion</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="spinner_title_two">from Units</string>
+    <string name="app_title">GenChem Companion</string>
+
+    <string-array name="units_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Joule</item>
+        <item>calorie</item>
+    </string-array>
+
+</resources>
